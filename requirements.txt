@@ -1,0 +1,15 @@
+openai
+streamlit
+langchain
+langserve
+fastapi
+uvicorn
+bs4
+langchain_community
+pypdf
+langchain_openai
+chromadb
+faiss-cpu
+arxiv
+wikipedia 
+chainlit
